@@ -1,13 +1,25 @@
-## Server-Side APIs Challenge: Weather Dashboar
+# Weather Dashboard
 
-1. [ Description. ](#desc)
-2. [ Web Address. ](#web-address)
-3. [ Usage tips. ](#usage)
-4. [ Contributing. ](#contributing)
-5. [ License. ](#license)
+[Weather App](./assets/img/main-application.jpg)
 
-<a name="desc"></a>
-## 1. Description
+## Description
+
+Weather app is an application that can be used to search for weather in different areas.
+
+## Acceptance Criteria
+
+- Search for a city.
+- Present the USER with current and future conditions for that city.
+- User can view current weather conditions for that city.
+- View the UV index
+- Click on a city in the search history
+- User presented with current and future conditions for that city
+
+## View the App here:
+
+```
+https://circuitapp.xyz/weather-api/
+```
 
 ### This application is a Weather Dashboard, created using Open Weather API, Javascript, Boostrap and CSS.
 
@@ -31,6 +43,7 @@ Smaller Screen Smart Phones:
 ![Top-Page-Area](./assets/images/landing-page-desktip-smartPhones-2.JPG?raw=true "landing-page-desktip-smartPhones-2")
 
 <a name="web-address"></a>
+
 ## 2. How to Get There
 
 ### Open your favorite web browser and enter the following web address to access.
@@ -38,7 +51,9 @@ Smaller Screen Smart Phones:
 ```html
 https://esroleo.github.io/server-side-api-weather-dashboard/
 ```
+
 <a name="usage"></a>
+
 ## 3. Usage Tips
 
 ### Testing the application
@@ -48,6 +63,7 @@ https://esroleo.github.io/server-side-api-weather-dashboard/
 ![nav-menu](./assets/images/one-city-searched.JPG?raw=true "one-city-searched")
 
 ### Add more cities by searching for other cities
+
 ### Click on any city saved to search for that city again
 
 ![nav-menu](./assets/images/one-city-searched-2.JPG?raw=true "one-city-searched-2")
@@ -58,10 +74,15 @@ https://esroleo.github.io/server-side-api-weather-dashboard/
 ![nav-menu](./assets/images/refresh-clicked.JPG?raw=true "refresh-clicked")
 
 <a name="contributing"></a>
+
 ## 4. Contributing
+
 Pull requests are welcome. For major changes, please let repository owner know to discuss what would you like to change.
 
 <a name="license"></a>
+
 ## 5. License
+
 None
+
 # server-side-api
